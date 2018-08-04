@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c3469660be93d6e4b924783d98f715f2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF Arborcrest Heavy
+  fontNames:
+  - SF Arborcrest Heavy
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 268a698a513014141850e4d0e33ccb40, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
